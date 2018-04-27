@@ -8,7 +8,7 @@ public class Principal implements Cadastro {
         Menu men = new Menu();
         men.submenu();
     }
-
+//GABRIEL VIADO
     @Override
     public void entrar() {
        // throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
